@@ -1,0 +1,11 @@
+1) put your script into the text
+1.1) import required modules if your compiling the script
+1.2) do u wanna compile the script???
+2) text will now be converted into a python file, enjoy!!
+2.1) also if ur compiling the script u needa download resource hacker to download the icon if you havent
+
+Resource Hacker:
+http://www.angusj.com/resourcehacker/ (scroll all the way to the bottom of the page)
+
+Discord:
+VeryVeryCool123#0686
